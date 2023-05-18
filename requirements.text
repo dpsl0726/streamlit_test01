@@ -18,3 +18,4 @@ streamlit
 PIL
 streamlit_folium
 folium
+matplotlib.pyplot

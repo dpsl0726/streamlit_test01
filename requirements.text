@@ -8,14 +8,11 @@ numpy
 pandas
 tqdm
 time
-tensorflow 
-tensorflow_hub
 matplotlib
 seaborn
 scipy
 IPython.display
 streamlit
 PIL
-streamlit_folium
 folium
-matplotlib.pyplot
+

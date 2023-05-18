@@ -2,7 +2,6 @@ import os
 import io
 import csv
 import random
-from IPython import display
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
@@ -11,8 +10,6 @@ import time
 
 import matplotlib.pyplot as plt
 import seaborn as sns
-from scipy import stats
-from IPython.display import Audio
 import folium
 import streamlit as st
 from streamlit_folium import st_folium

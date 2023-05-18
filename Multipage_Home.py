@@ -10,7 +10,6 @@ import time
 
 import matplotlib.pyplot as plt
 import seaborn as sns
-from scipy import stats
 import folium
 import streamlit as st
 from streamlit_folium import st_folium

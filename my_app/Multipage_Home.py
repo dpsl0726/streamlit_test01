@@ -5,12 +5,10 @@ import random
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
-from tqdm import tqdm
 import time
 
 import matplotlib.pyplot as plt
 import seaborn as sns
-from IPython.display import Audio
 import folium
 import streamlit as st
 from streamlit_folium import st_folium

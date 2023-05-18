@@ -17,7 +17,7 @@ def main() :
 
 
     # 데이터 불러오기
-    pet_food = pd.read_csv(r'C:\ITStudy\02_streamlit\team\my_app\pet_food_FN3.csv')
+    pet_food = pd.read_csv('./pet_food_FN3.csv')
     
     # 상좌: 지역 선택 버튼
     st.subheader("맛집 탐방하고 싶은 지역을 설정하세요")

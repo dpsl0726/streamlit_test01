@@ -16,7 +16,7 @@ from PIL import Image
 st.set_page_config(layout="wide")
 
 
-st.title("-------------------🐶서울특별시 반려동물 종합 플랫폼🐶---------------------")
+st.title("🐶서울특별시 반려동물 종합 플랫폼🐶")
 
 image_local = Image.open('./a.png')
 st.image(image_local, width=1200)
